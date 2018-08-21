@@ -1,0 +1,1 @@
+<Project name="Monosem"><File path="monosem.c"></File><File path="Makefile"></File><File path="lcdpcf8574\lcdpcf8574.c"></File><File path="pcf8574\pcf8574.c"></File><File path="pcf8574\pcf8574.h"></File><File path="lcdpcf8574\lcdpcf8574.h"></File><File path="i2chw\i2cmaster.h"></File><File path="i2chw\twimaster.c"></File></Project>
